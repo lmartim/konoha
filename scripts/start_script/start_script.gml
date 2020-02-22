@@ -1,0 +1,22 @@
+myText[0]    = "Konoha, sua bocó! Ainda se lembra de como agir? Aperte E para interagir!";
+mySpeaker[0] = obj_npc_3;
+myText[1]    = "E use as SETAS para se movimentar, mas lembre-se que é falta de educação sair andando enquanto conversa.";
+mySpeaker[1] = obj_npc_3;
+myText[2]    = "Claro, chefe...";
+mySpeaker[2] = obj_player;
+myText[3]    = "Ótimo. Sua missão é encontrar o ladrão de takoyakis na vila.";
+mySpeaker[3] = obj_npc_3;
+myText[4]    = "Converse com os moradores da vila e retorna para mim, quando tiver encontrando o culpado.";
+mySpeaker[4] = obj_npc_3;
+myText[5]    = "Um ladrão de takoyakis? Caçamba chefe!";
+mySpeaker[5] = obj_player;
+myText[6]    = "Só mais uma coisa, se você realmente quiser se tornar uma detetive, deve resolver esse caso!";
+mySpeaker[6] = obj_npc_3;
+myText[7]    = "Caso falhe, irá ser matriculada na escola de ninjas!";
+mySpeaker[7] = obj_npc_3;
+myText[8]    = "Podexa, não irei decepcionar!";
+mySpeaker[8] = obj_player;
+myText[9]    = "Super detetive Konoha, ao resgate!";
+mySpeaker[9] = obj_player;
+
+create_dialogue(myText, mySpeaker);
